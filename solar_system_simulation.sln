@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "solar_system_simulation", "solar_system_simulation\solar_system_simulation.csproj", "{F86A162F-111B-4EAD-A9B9-C8F2D34C6299}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F86A162F-111B-4EAD-A9B9-C8F2D34C6299}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F86A162F-111B-4EAD-A9B9-C8F2D34C6299}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F86A162F-111B-4EAD-A9B9-C8F2D34C6299}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F86A162F-111B-4EAD-A9B9-C8F2D34C6299}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A337994-4C1F-45B4-B937-3D20D71FC510}
+	EndGlobalSection
+EndGlobal
