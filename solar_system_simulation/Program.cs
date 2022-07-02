@@ -6,7 +6,8 @@ namespace solar_system_simulation
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("");
+            var TestPlanet = new Planet();
+            Console.WriteLine(TestPlanet.Name);
         }
     }
 }

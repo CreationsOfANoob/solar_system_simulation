@@ -5,7 +5,7 @@ namespace solar_system_simulation
     {
         public string Name { get; }
 
-        public Planet(string name)
+        public Planet(string name = "Unnamed Planet")
         {
             Name = name;
         }
